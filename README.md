@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+[Check out my updates on Twitter here](https://twitter.com/search?q=(%23100DaysOfCode)%20(from%3Ayatishmadhav)&src=typed_query)
+
 ## Contents
 
 * [Rules](rules.md)

@@ -1,7 +1,7 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I was thinking of keeping just the default commitment ... However, I wan't to add this: I plan to grow myself while learning coding too. I will overcome hurdles and perservere to improve even more as I have been doing.*
 
 #### Start Date
 1 June 2020
